@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omniakey-com/ai-agent-api-setup/main/site/assets/omniakey-mark.svg" width="76" height="76" alt="OmniAKey">
+  <img src="https://raw.githubusercontent.com/omniakey-com/ai-agent-api-setup/main/site/assets/omniakey-mark.svg" width="76" height="76" alt="OmniaKey">
 </p>
 
-<h1 align="center">OmniAKey</h1>
+<h1 align="center">OmniaKey</h1>
 
 <p align="center">
   Open tools for connecting AI coding agents to compatible model APIs.
